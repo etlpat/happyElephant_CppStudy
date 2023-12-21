@@ -1,0 +1,5 @@
+﻿  tree.cpp
+D:\C++\C++项目\cppUniversityCourse\dataStructureExperiment\_03_tree\_03_tree\LinkStack.h(8,23): warning C4091: “extern ”: 没有声明变量时忽略“TreeNode”的左侧
+  (编译源文件“tree.cpp”)
+  
+  _03_tree.vcxproj -> D:\C++\C++项目\cppUniversityCourse\dataStructureExperiment\_03_tree\x64\Debug\_03_tree.exe
