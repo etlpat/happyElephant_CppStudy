@@ -1,2 +1,15 @@
-﻿  _06_最短路径.cpp
-  _04_图.vcxproj -> D:\C++\C++项目\数据结构与算法\_04_图\x64\Debug\_04_图.exe
+﻿  _01_图基础.cpp
+  _02_邻接矩阵.cpp
+  _03_邻接表.cpp
+  _04_VertexQueue.cpp
+  _04_邻接表的基本操作和遍历.cpp
+D:\gitRepository\happy-elephant\happyElephant_CppStudy\数据结构与算法\_04_图\_04_图\_04_VertexQueue.h(8,15): warning C4091: “extern ”: 没有声明变量时忽略“VertexInfo”的左侧
+  (编译源文件“_04_VertexQueue.cpp”)
+  
+D:\gitRepository\happy-elephant\happyElephant_CppStudy\数据结构与算法\_04_图\_04_图\_04_VertexQueue.h(8,15): warning C4091: “extern ”: 没有声明变量时忽略“VertexInfo”的左侧
+  (编译源文件“_04_邻接表的基本操作和遍历.cpp”)
+  
+  _05_最小生成树.cpp
+  _06_最短路径.cpp
+  正在生成代码...
+  _04_图.vcxproj -> D:\gitRepository\happy-elephant\happyElephant_CppStudy\数据结构与算法\_04_图\x64\Debug\_04_图.exe
